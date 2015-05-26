@@ -1,0 +1,20 @@
+{
+  "name": "node-google-analytics",
+  "version": "0.0.1",
+  "description": "node module to track data using Universal Analytics, along with Measurement Protocol.",
+  "main": "index.js",
+  "dependencies": {
+    "node-uuid": "1.x",
+    "hashmap": "^2.0.3"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "keywords": [
+    "node",
+    "google analytics",
+    "universal analytics",
+    "measurement protocol"
+  ],
+  "license": "MIT"
+}
